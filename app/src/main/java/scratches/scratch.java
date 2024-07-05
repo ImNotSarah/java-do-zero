@@ -3,7 +3,6 @@ package scratches;
 class Scratch {
     public static void main(String[] args) {
 //        String nome;
-
 //        nome = "Sarah Lima";
 //        //Integer idade = 19;
 //        final Double PI = 3.14;
@@ -22,7 +21,7 @@ class Scratch {
 //        System.out.println("Preco: " + preco);
 //        System.out.println("Total: " + total);
 //        System.out.println("Boolean: " + visivel);
-//        System.out.println("Sexo: " + caracter)
+//        System.out.println("Sexo: " + caracter);
 //
 //          double compras = 400;
 //          byte idade = 55;
@@ -91,7 +90,6 @@ class Scratch {
             System.out.println("Número: " + numero);
             numero++;
         }
-        System.out.println();
 
         String[] postagens = {
                 "Fui a praia...",
@@ -99,8 +97,10 @@ class Scratch {
                 "Viagem para Nordeste",
                 "Estudando Java e Kotlin",
         };
+
         System.out.println("Resultado: " + postagens[1]);
 
+        System.out.println();
         numero = 0;
 
         while(numero <= 3){
@@ -109,5 +109,8 @@ class Scratch {
             numero++;
         }
 
+        for (int i = 0; i < 6 ; i++) {
+            System.out.println("Resultado: " + i);
+        }
     }
 }
