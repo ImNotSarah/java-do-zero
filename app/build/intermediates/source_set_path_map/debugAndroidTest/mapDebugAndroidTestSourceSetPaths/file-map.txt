@@ -1,0 +1,5 @@
+com.sarahlima.aprendendojavadozero.test.app-core-1.6.1-0 C:\Users\sarah\.gradle\caches\transforms-3\b3dc8eae6d4de3ac890b552da6caae9c\transformed\core-1.6.1\res
+com.sarahlima.aprendendojavadozero.test.app-androidTest-1 C:\Users\sarah\AndroidStudioProjects\AprendendoJavaDoZero\app\build\generated\res\resValues\androidTest\debug
+com.sarahlima.aprendendojavadozero.test.app-mergeDebugAndroidTestResources-2 C:\Users\sarah\AndroidStudioProjects\AprendendoJavaDoZero\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.sarahlima.aprendendojavadozero.test.app-mergeDebugAndroidTestResources-3 C:\Users\sarah\AndroidStudioProjects\AprendendoJavaDoZero\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.sarahlima.aprendendojavadozero.test.app-debugAndroidTest-4 C:\Users\sarah\AndroidStudioProjects\AprendendoJavaDoZero\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

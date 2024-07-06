@@ -1,0 +1,2 @@
+com.sarahlima.aprendendojavadozero.test:style/WhiteBackgroundTheme = 0x7f010001
+com.sarahlima.aprendendojavadozero.test:style/WhiteBackgroundDialogTheme = 0x7f010000
